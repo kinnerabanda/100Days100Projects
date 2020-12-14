@@ -4,7 +4,7 @@ Just something to do over the 2020 winter break. Probs not going to finish all 1
 
 | Status | Day | Project                            | Codepen Link                                             |
 | ------ | --- | ---------------------------------- | -------------------------------------------------------- |
-| -[x]   | 001 | Random Meal Generator              | [Preview](https://codepen.io/kinban/project/full/XWkmOd) |
+|  :heavy_check_mark:   | 001 | Random Meal Generator              | [Preview](https://codepen.io/kinban/project/full/XWkmOd) |
 |        | 002 | 2020 Mood Generator                |                                                          |
 |        | 003 | Double Noise Flow Field            |                                                          |
 |        | 004 | Catch the Insect                   |                                                          |
